@@ -1,0 +1,16 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+  }
+
+
+  .page-footer{
+    width: 100%;
+    background-color:black;
+    color: white;
+  }
+
+  .product{
+    justify-content: center;
+    background-color: bisque;
+  }
