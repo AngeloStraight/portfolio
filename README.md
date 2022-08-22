@@ -1,2 +1,2 @@
 # portfolio
-Portfolio app. This app is meant to provide information about my academic and professional interests. 
+Portfolio web app. This app provides information about my professional and  academic skill sets. It also gives some insight into my interests outside of academia.
